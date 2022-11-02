@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "host": "iteral:5672",
+    "user": "dev_er",
+    "password": "d_user",
+    "virtual_host": "/dev"
+  },
+  "staging": {
+    "host": "ip-.inal:5672",
+    "user": "staguser",
+    "password": "stng_user",
+    "virtual_host": "/staging"
+  },
+  "prod": {
+    "host": "ip-1cntnal:5672",
+    "user": "prouser",
+    "password": "p_user",
+    "virtual_host": "/prod"
+  }
+}

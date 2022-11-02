@@ -1,0 +1,10 @@
+pandas==1.0.5
+attrs==19.3.0
+pytest==5.4.3
+pyarrow==1.0.1
+psycopg2-binary
+alembic==1.4.2
+ib_insync==0.9.61
+flake8==3.8.3
+kombu==5.0.2
+QuantLib==1.21
